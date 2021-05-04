@@ -15,8 +15,8 @@ state = "available"
 #/*=======PROVIDER=========*/
 provider "aws" {
   region     = "us-east-2"
-  access_key = "AKIAT26AKT5UAKFZCLEW"
-  secret_key = "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"
+  access_key = 
+  secret_key = 
 }
 
 #/*=====VPC======*/
